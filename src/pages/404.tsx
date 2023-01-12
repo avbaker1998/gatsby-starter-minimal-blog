@@ -6,6 +6,7 @@ const NotFound = (_props: PageProps) => (
   <Layout>
     <h1>404 - Page Not Found</h1>
     <p>Unfortunately we couldn't find what you were looking for :(</p>
+    <div>Lilia :)</div>
   </Layout>
 )
 
